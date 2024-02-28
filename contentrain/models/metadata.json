@@ -1,0 +1,10 @@
+[
+  {
+    "name": "my-first-json-model",
+    "modelId": "my-first-json-model",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
