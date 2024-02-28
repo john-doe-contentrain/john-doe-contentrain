@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "my-first-json-model"
+  },
+  {
+    "name": "my-first-string-field",
+    "fieldId": "my-first-string-field",
+    "modelId": "my-first-json-model",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
