@@ -7,5 +7,14 @@
     "createdBy": "user",
     "isServerless": false,
     "description": "This is a JSON model."
+  },
+  {
+    "name": "my-markdown-model",
+    "description": "This is a Markdown model.",
+    "modelId": "my-markdown-model",
+    "localization": false,
+    "type": "MD",
+    "createdBy": "user",
+    "isServerless": false
   }
 ]
