@@ -1,19 +1,5 @@
 [
   {
-    "path": "contentrain/static/container-ship.jpg",
-    "mimetype": "image/jpeg",
-    "size": 51002,
-    "meta": {
-      "user": {
-        "name": "John Doe",
-        "email": "john.doe@contentrain.io",
-        "avatar": null
-      },
-      "createdAt": "2024-02-29T09:59:27.203Z",
-      "updatedAt": "2024-02-29T12:02:13.932Z"
-    }
-  },
-  {
     "path": "contentrain/static/sunset.jpg",
     "mimetype": "image/jpeg",
     "size": 137605,
