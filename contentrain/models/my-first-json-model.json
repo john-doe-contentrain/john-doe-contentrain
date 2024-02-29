@@ -60,7 +60,8 @@
     "modelId": "my-first-json-model"
   },
   {
-    "name": "my-first-string-field",
+    "name": "title",
+    "description": "This is the title field.",
     "fieldId": "my-first-string-field",
     "modelId": "my-first-json-model",
     "componentId": "single-line-text",
