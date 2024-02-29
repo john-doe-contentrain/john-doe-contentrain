@@ -26,5 +26,18 @@
       "createdAt": "2024-02-29T12:02:50.822Z",
       "updatedAt": "2024-02-29T12:03:03.733Z"
     }
+  },
+  {
+    "path": "contentrain/static/1709208205657_396583051_335960632388290_1339575384308638144_n.jpg",
+    "mimetype": "image/jpeg",
+    "size": 51002,
+    "meta": {
+      "user": {
+        "name": "John Doe",
+        "email": "john.doe@contentrain.io",
+        "avatar": null
+      },
+      "createdAt": "2024-02-29T12:03:27.107Z"
+    }
   }
 ]
