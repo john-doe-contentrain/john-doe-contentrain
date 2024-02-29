@@ -12,5 +12,18 @@
       "createdAt": "2024-02-29T11:58:04.639Z",
       "updatedAt": "2024-02-29T11:58:59.139Z"
     }
+  },
+  {
+    "path": "contentrain/static/1709208169303_photo_2024-02-29_14-59-36.jpg",
+    "mimetype": "image/jpeg",
+    "size": 67468,
+    "meta": {
+      "user": {
+        "name": "John Doe",
+        "email": "john.doe@contentrain.io",
+        "avatar": null
+      },
+      "createdAt": "2024-02-29T12:02:50.822Z"
+    }
   }
 ]
