@@ -1,6 +1,6 @@
 [
   {
-    "name": "my-first-json-model",
+    "name": "json-model",
     "modelId": "my-first-json-model",
     "localization": false,
     "type": "JSON",
