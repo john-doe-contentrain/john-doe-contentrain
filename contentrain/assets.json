@@ -13,7 +13,7 @@
     }
   },
   {
-    "path": "contentrain/static/1709207883086_photo_2023-11-28_13-25-09.jpg",
+    "path": "contentrain/static/A beautiful sunset.jpg",
     "mimetype": "image/jpeg",
     "size": 137605,
     "meta": {
@@ -22,7 +22,8 @@
         "email": "john.doe@contentrain.io",
         "avatar": null
       },
-      "createdAt": "2024-02-29T11:58:04.639Z"
+      "createdAt": "2024-02-29T11:58:04.639Z",
+      "updatedAt": "2024-02-29T11:58:34.102Z"
     }
   }
 ]
