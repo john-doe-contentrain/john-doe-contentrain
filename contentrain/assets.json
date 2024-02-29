@@ -11,5 +11,18 @@
       },
       "createdAt": "2024-02-29T09:59:27.203Z"
     }
+  },
+  {
+    "path": "contentrain/static/1709207883086_photo_2023-11-28_13-25-09.jpg",
+    "mimetype": "image/jpeg",
+    "size": 137605,
+    "meta": {
+      "user": {
+        "name": "John Doe",
+        "email": "john.doe@contentrain.io",
+        "avatar": null
+      },
+      "createdAt": "2024-02-29T11:58:04.639Z"
+    }
   }
 ]
