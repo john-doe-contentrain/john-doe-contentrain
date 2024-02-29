@@ -5,6 +5,7 @@
     "localization": false,
     "type": "JSON",
     "createdBy": "user",
-    "isServerless": false
+    "isServerless": false,
+    "description": "This is a JSON model."
   }
 ]
