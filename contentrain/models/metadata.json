@@ -1,11 +1,1 @@
-[
-  {
-    "name": "markdown-model",
-    "description": "This is a Markdown model.",
-    "modelId": "markdown-model",
-    "localization": false,
-    "type": "MD",
-    "createdBy": "user",
-    "isServerless": false
-  }
-]
+[]
