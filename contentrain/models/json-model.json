@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "json-model"
+  },
+  {
+    "name": "title",
+    "fieldId": "title",
+    "modelId": "json-model",
+    "componentId": "single-line-text",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
