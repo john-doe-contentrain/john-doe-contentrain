@@ -3,7 +3,7 @@
     "name": "json-model",
     "description": "",
     "modelId": "json-model",
-    "localization": false,
+    "localization": true,
     "type": "JSON",
     "createdBy": "user",
     "isServerless": false
