@@ -61,6 +61,7 @@
   },
   {
     "name": "title",
+    "description": "This is the title of the content.",
     "fieldId": "title",
     "modelId": "json-model",
     "componentId": "single-line-text",
