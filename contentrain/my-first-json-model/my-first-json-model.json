@@ -1,0 +1,11 @@
+[
+  {
+    "ID": "4a1361998bf3",
+    "createdAt": "Fri Mar 01 2024 11:36:56 GMT+0300 (GMT+03:00)",
+    "updatedAt": "Fri Mar 01 2024 11:36:56 GMT+0300 (GMT+03:00)",
+    "my-first-string-field": "Localization",
+    "description": "<p>You can create multi-lingual content on Contentrain.</p>",
+    "status": "draft",
+    "scheduled": false
+  }
+]
