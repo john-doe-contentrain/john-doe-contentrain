@@ -68,5 +68,14 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
+  },
+  {
+    "name": "h",
+    "fieldId": "h",
+    "modelId": "json-model",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
