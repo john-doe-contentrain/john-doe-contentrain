@@ -1,10 +1,10 @@
 ---
 ID: "53a19edcf566"
 createdAt: "2024-03-04T10:29:07.000Z"
-updatedAt: "2024-03-04T11:00:59.780Z"
-status: "publish"
+updatedAt: "2024-03-04T11:02:04.256Z"
+status: "draft"
 slug: "New Features"
-scheduled: false
+scheduled: true
 path: ""
 ---
 # Hello from Contentrain
