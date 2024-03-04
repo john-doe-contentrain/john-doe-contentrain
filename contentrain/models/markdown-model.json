@@ -88,5 +88,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "markdown-model"
+  },
+  {
+    "name": "test",
+    "fieldId": "test",
+    "modelId": "markdown-model",
+    "componentId": "json",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
