@@ -88,14 +88,5 @@
     "system": true,
     "defaultField": false,
     "modelId": "markdown-model"
-  },
-  {
-    "name": "test",
-    "fieldId": "test",
-    "modelId": "markdown-model",
-    "componentId": "multi-line-text",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
   }
 ]
