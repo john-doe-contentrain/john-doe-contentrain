@@ -78,14 +78,5 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
-  },
-  {
-    "name": "rich",
-    "fieldId": "rich",
-    "modelId": "json-model",
-    "componentId": "rich-text-editor",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
   }
 ]
