@@ -68,15 +68,5 @@
     "options": {},
     "validations": {},
     "fieldType": "string"
-  },
-  {
-    "name": "description",
-    "description": "This is the description of the content.",
-    "fieldId": "description",
-    "modelId": "json-model",
-    "componentId": "rich-text-editor",
-    "options": {},
-    "validations": {},
-    "fieldType": "string"
   }
 ]
