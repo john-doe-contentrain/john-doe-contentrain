@@ -58,5 +58,14 @@
     "system": true,
     "defaultField": false,
     "modelId": "json-model"
+  },
+  {
+    "name": "rich-text-field",
+    "fieldId": "rich-text-field",
+    "modelId": "json-model",
+    "componentId": "rich-text-editor",
+    "options": {},
+    "validations": {},
+    "fieldType": "string"
   }
 ]
