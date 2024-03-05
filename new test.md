@@ -1,10 +1,10 @@
 ---
 ID: "aadc587e0141"
-createdAt: "Tue Mar 05 2024 11:44:40 GMT+0300 (GMT+03:00)"
-updatedAt: "Tue Mar 05 2024 11:44:40 GMT+0300 (GMT+03:00)"
-slug: "new test"
+createdAt: "2024-03-05T08:44:40.000Z"
+updatedAt: "2024-03-05T08:45:17.782Z"
 status: "draft"
-scheduled: false
+slug: "new test"
+scheduled: true
 path: ""
 ---
 test
