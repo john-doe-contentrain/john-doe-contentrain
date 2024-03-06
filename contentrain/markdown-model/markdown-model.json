@@ -19,11 +19,11 @@
   },
   {
     "ID": "56686788f522",
-    "createdAt": "Wed Mar 06 2024 10:41:38 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Wed Mar 06 2024 10:41:38 GMT+0300 (GMT+03:00)",
+    "createdAt": "2024-03-06T07:41:38.000Z",
+    "updatedAt": "2024-03-06T07:43:00.005Z",
+    "status": "changed",
     "slug": "Hello",
-    "status": "draft",
-    "scheduled": true,
+    "scheduled": false,
     "path": ""
   },
   {
