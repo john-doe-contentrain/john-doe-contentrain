@@ -15,5 +15,13 @@
     "type": "MD",
     "createdBy": "user",
     "isServerless": false
+  },
+  {
+    "name": "json-model-2",
+    "modelId": "json-model-2",
+    "localization": true,
+    "type": "JSON",
+    "createdBy": "saved",
+    "isServerless": false
   }
 ]
