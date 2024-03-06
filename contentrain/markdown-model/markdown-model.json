@@ -1,14 +1,5 @@
 [
   {
-    "ID": "0244642a1536",
-    "createdAt": "Wed Mar 06 2024 12:36:03 GMT+0300 (GMT+03:00)",
-    "updatedAt": "Wed Mar 06 2024 12:36:03 GMT+0300 (GMT+03:00)",
-    "slug": "Hello",
-    "status": "draft",
-    "scheduled": true,
-    "path": ""
-  },
-  {
     "ID": "3ffa9c4e054d",
     "createdAt": "2024-03-06T07:00:12.000Z",
     "updatedAt": "2024-03-06T09:37:22.031Z",
