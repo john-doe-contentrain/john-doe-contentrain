@@ -15,13 +15,5 @@
     "type": "MD",
     "createdBy": "user",
     "isServerless": false
-  },
-  {
-    "name": "json-model-test",
-    "modelId": "json-model-test",
-    "localization": true,
-    "type": "JSON",
-    "createdBy": "saved",
-    "isServerless": false
   }
 ]
