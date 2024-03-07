@@ -1,14 +1,5 @@
 [
   {
-    "name": "json-model",
-    "description": "",
-    "modelId": "json-model",
-    "localization": true,
-    "type": "JSON",
-    "createdBy": "user",
-    "isServerless": false
-  },
-  {
     "name": "Markdown-Model",
     "modelId": "markdown-model",
     "localization": false,
