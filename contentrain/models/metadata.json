@@ -1,1 +1,11 @@
-[]
+[
+  {
+    "name": "json-model",
+    "description": "This is a JSON Model.",
+    "modelId": "json-model",
+    "localization": false,
+    "type": "JSON",
+    "createdBy": "user",
+    "isServerless": false
+  }
+]
