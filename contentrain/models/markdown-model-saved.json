@@ -1,0 +1,86 @@
+[
+  {
+    "componentId": "slug",
+    "fieldId": "slug",
+    "modelId": "markdown-model-saved",
+    "name": "slug",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "498u2fdjt9"
+  },
+  {
+    "componentId": "md-editor",
+    "fieldId": "content",
+    "modelId": "markdown-model-saved",
+    "name": "content",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "498u2fdjt9"
+  },
+  {
+    "componentId": "date",
+    "fieldId": "createdAt",
+    "modelId": "markdown-model-saved",
+    "name": "createdAt",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "projectId": "498u2fdjt9"
+  },
+  {
+    "componentId": "date",
+    "fieldId": "updatedAt",
+    "modelId": "markdown-model-saved",
+    "name": "updatedAt",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "date",
+    "projectId": "498u2fdjt9"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "ID",
+    "modelId": "markdown-model-saved",
+    "name": "ID",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "498u2fdjt9"
+  },
+  {
+    "componentId": "single-line-text",
+    "fieldId": "status",
+    "modelId": "markdown-model-saved",
+    "name": "status",
+    "options": {},
+    "validations": {
+      "required-field": {
+        "value": true
+      }
+    },
+    "fieldType": "string",
+    "projectId": "498u2fdjt9"
+  }
+]
