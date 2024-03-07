@@ -16,13 +16,5 @@
     "type": "MD",
     "createdBy": "user",
     "isServerless": false
-  },
-  {
-    "name": "markdown-model-saved",
-    "modelId": "markdown-model-saved",
-    "localization": false,
-    "type": "MD",
-    "createdBy": "saved",
-    "isServerless": false
   }
 ]
